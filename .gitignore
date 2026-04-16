@@ -1,0 +1,10 @@
+# Ignore the secret environment variables
+.env
+config.js
+
+# Ignore the heavy folders installed by npm
+node_modules/
+
+# Ignore OS-specific junk (like thumbnails)
+.DS_Store
+Thumbs.db
